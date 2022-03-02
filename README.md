@@ -1,6 +1,6 @@
 # mycode.py
 Python Examples
-# mycode (Project Title)
+# mycode Python Project
 
 Learning Python Basics from start to finish
 
