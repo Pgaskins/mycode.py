@@ -1,0 +1,14 @@
+export OS_AUTH_URL=https://www.hello.world.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=PG
+export OS_PROJECT_DOMAIN_NAME=PG.org
+export OS_USERNAME=PMG
+export OS_USER_DOMAIN_NAME=Percell Gaskins
+export OS_PASSWORD=45757553
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
