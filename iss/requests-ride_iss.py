@@ -4,11 +4,15 @@
 
 # notice we no longer need to import urllib.request or json
 import requests
-
+from flask import Flask
 ## Define URL
 MAJORTOM = 'http://api.open-notify.org/astros.json'
 
-def main():
+app = Flask(__name__)
+
+app@.route("/")
+
+def main(name):
     """runtime code"""
 
     ## Call the webservice
@@ -45,5 +49,5 @@ def main():
         print(astronaut["name"] + " on the " + astronaut["craft"])
 
 if __name__ == "__main__":
-    main()
+    app.run(host+"0.0.0.0", port=2224)
 
